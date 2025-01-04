@@ -70,14 +70,14 @@ ChatEasy is a real-time chat platform built using the MERN stack, designed for c
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ChatEasy.git
+git clone https://github.com/nizcse/ChatEasy.git
 cd ChatEasy
 ```
 
 ### **3. Backend Setup**
-1. Navigate to the `server` folder:
+1. Navigate to the `backend` folder:
    ```bash
-   cd server
+   cd backend
    ```
 2. Install dependencies:
    ```bash
@@ -98,9 +98,9 @@ cd ChatEasy
 ### **4. Frontend Setup**
 
 #### **React.js (Web)**
-1. Navigate to the `react-web` folder:
+1. Navigate to the `reactJs` folder:
    ```bash
-   cd client/react-web
+   cd frontend/reactJs
    ```
 2. Install dependencies:
    ```bash
@@ -112,9 +112,9 @@ cd ChatEasy
    ```
 
 #### **React Native (Mobile)**
-1. Navigate to the `react-native` folder:
+1. Navigate to the `reactNative` folder:
    ```bash
-   cd client/react-native
+   cd frontend/reactNative
    ```
 2. Install dependencies:
    ```bash
@@ -132,10 +132,10 @@ cd ChatEasy
 ## **Folder Structure**
 ```
 ChatEasy/
-├── client/
-│   ├── react-web/
-│   └── react-native/
-├── server/
+├── frontend/
+│   ├── reactJs/
+│   └── reactNative/
+├── backend/
 ├── .gitignore
 ├── README.md
 └── package.json
@@ -152,7 +152,7 @@ ChatEasy/
 ---
 
 ## **License**
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [ISC License](./LICENSE).
 
 ---
 

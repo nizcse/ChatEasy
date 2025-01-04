@@ -1,0 +1,23 @@
+{
+  "name": "chateasy",
+  "version": "1.0.0",
+  "description": "Can be used for chat by anyone.",
+  "homepage": "https://github.com/nizcse/ChatEasy#readme",
+  "bugs": {
+    "url": "https://github.com/nizcse/ChatEasy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nizcse/ChatEasy.git"
+  },
+  "license": "ISC",
+  "author": "Nishant Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
